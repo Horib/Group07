@@ -16,3 +16,4 @@ nbproject/
 \.idea/
 
 nbbuild\.xml
+/mavenproject1/target/
